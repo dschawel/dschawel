@@ -1,6 +1,10 @@
-### Hi there 👋
+# Software Engineer
+Creative Thinker | Problem Solver | Constant Learner
+
+## My Github Stats
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=dschawel&theme=monokai&show_icons=true&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschawel&layout=compact&theme=monokai)
+
 ## My Favorite Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -21,6 +25,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
+
+![visitors](https://komarev.com/ghpvc/?username=dschawel0&color=brightgreen)
 <!--
 **dschawel/dschawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
