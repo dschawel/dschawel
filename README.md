@@ -26,6 +26,10 @@ Creative Thinker | Problem Solver | Constant Learner
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
 
+### Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20me-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidschawel/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-eMail%20me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:david.schawel@gmail.com "Connect via Email")
+
 ![visitors](https://komarev.com/ghpvc/?username=dschawel0&color=brightgreen)
 <!--
 **dschawel/dschawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
