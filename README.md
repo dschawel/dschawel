@@ -5,6 +5,8 @@ Creative Thinker | Problem Solver | Constant Learner
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=dschawel&theme=monokai&show_icons=true&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschawel&layout=compact&theme=monokai)
 
+<img src="https://github-profile-trophy.vercel.app/?username=dschawel&title=Repositories,Commit,PullRequest,Followers,Joined2019,MultiLanguage" >
+
 ## My Favorite Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
