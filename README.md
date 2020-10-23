@@ -2,7 +2,7 @@
 Creative Thinker | Problem Solver | Constant Learner
 
 ## My Github Stats
-![David's github stats](https://github-readme-stats.vercel.app/api?username=dschawel&theme=monokai&show_icons=true&hide=stars,issues)
+![David's github stats](https://github-readme-stats.vercel.app/api?username=dschawel&count_private=true&theme=monokai&show_icons=true&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dschawel&layout=compact&theme=monokai)
 
 <img src="https://github-profile-trophy.vercel.app/?username=dschawel&title=Repositories,Commit,PullRequest,Followers,Joined2019,MultiLanguage" >
